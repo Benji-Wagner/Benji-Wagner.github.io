@@ -1,2 +1,4 @@
 name: Benji Wagner
 markdown: kramdown
+
+theme: jekyll-theme-cayman
